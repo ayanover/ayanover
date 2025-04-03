@@ -4,7 +4,7 @@
 <h3>About me</h3>
 I am a student at Wrocław University of Science and Technology. My major is IT Automation Systems. 
 My main field of interest is .NET but I aspire to be a full-stack developer. 
-Aside from studying full-time on a university, I am a freelancer, I create features in .NET, debug code and fix bugs.
+Aside from studying full-time on a university, I am a freelancer who create features in C#/.NET, debug code and fix bugs.
 I also make websites for small businesses.
 
 - 🌱 I’m currently learning **more about .NET**
