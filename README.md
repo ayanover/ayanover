@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">An aspiring full-stack developer</h3>
+<h4 align="center">A passionate full-stack developer</h4>
+
+##About me
+I am a student at Wrocław University of Science and Technology. My major is IT Automation Systems. 
+My main field of interest is .NET but I aspire to be a full-stack developer. 
+Aside from studying full-time on a university, I am a freelancer, I create features in .NET, debug code and fix bugs.
+I also make websites for small businesses.
 
 - 🌱 I’m currently learning **more about .NET**
 
 - 📫 How to reach me **kuba.grych@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
